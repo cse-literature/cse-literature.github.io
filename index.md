@@ -7,7 +7,7 @@ The goal is to gather interesting resources on CSE, bundled around specific topi
 We plan to apply for a [Zulip](https://zulip.com/) channel, in order to stimulate discussion.
 
 ### About
-Please find (and contribute to) the source code for this page [here](https://github.com/cse-literature/cse-literature.github.io). 
+Please find (and contribute to) the source code [here](https://github.com/cse-literature/cse-literature.github.io). 
 The creation of this community was inspired by the success and openness of the [Julia community](https://julialang.org/community/).
 
 ### How to cite
